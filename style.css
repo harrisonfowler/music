@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:600,700');
 
 body {
-	background-color: #DA98AF;
+	background-color: #DA938F;
 }
 
 
@@ -10,33 +10,32 @@ body {
 	font-weight: 700;
 	color: #fff;
 	font-size: 1.5em;
-	margin-bottom: 10px;
  text-align: center;
  text-decoration: underline;
  text-shadow: 2px 2px #ff0000;
  
 }
-
 #p2 {
 	font-family: 'Open Sans', sans-serif;
-	font-weight: 300;
-	color: #fff;
-	font-size: 1em;
-	margin-bottom: 10px;
+	font-weight: 700;
+	color: #777;
+	font-size: 1.2em;
  text-align: center;
- text-shadow: 2px 2px #ff0000;
+ 
 }
 
-
+br {
+ line-height: 0.1%;
+}
 
 div {
 margin: auto;
-  width: 80%;
+  width: 90%;
   border: 3px solid white;
-  padding: 10px;
-  box-shadow: 5px 5px #888888;
-  border-radius: 40px;
-  background-color: #DA938F;
+  box-shadow: 6px 6px 6px #777;
+  border-radius: 10px;
+  background-color: #ffffff;
+  /*   padding: 10px; */
 }
 
 audio {

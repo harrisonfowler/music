@@ -1,2 +1,3 @@
 # music
-music app
+
+Music page for the app

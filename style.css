@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:600,700');
 
 body {
-	background-color: #DA938F;
+	background-color: #013851;
 }
 
 
@@ -9,7 +9,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	color: #fff;
-	font-size: 1.5em;
+	font-size: 1.8em;
  text-align: center;
  text-decoration: underline;
  text-shadow: 2px 2px #ff0000;
@@ -30,9 +30,9 @@ br {
 
 div {
 margin: auto;
-  width: 90%;
+  width: 95%;
   border: 3px solid white;
-  box-shadow: 6px 6px 6px #777;
+  box-shadow: 6px 6px 6px #000;
   border-radius: 10px;
   background-color: #ffffff;
   /*   padding: 10px; */

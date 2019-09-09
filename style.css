@@ -28,14 +28,15 @@ br {
  line-height: 0.1%;
 }
 
-div {
-margin: auto;
-  width: 75%;
+.x {
+  width: 40%;
   border: 3px solid white;
   box-shadow: 6px 6px 6px #000;
   border-radius: 10px;
   background-color: #ffffff;
   /*   padding: 10px; */
+ display:inline-block;
+ vertical-align:middle;
 }
 
 audio {
@@ -44,5 +45,11 @@ audio {
  border-radius: 40px;
  background-color: #fff;
  display: block;
+}
+
+#wrapper {
+  overflow: hidden;
+  border: 0px solid black;
+  text-align: center;
 }
 	
